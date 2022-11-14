@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+ .answer, .ask{
+  padding-left: 20px;
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 150px;
+ }
